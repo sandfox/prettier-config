@@ -1,0 +1,16 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "read prettier ops from a .prettieropts file",
+  "main": "prettier-config.sh",
+  "repository": "sandfox/prettier-config",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./prettier-config",
+  "keywords": [
+    "prettier"
+  ],
+  "author": "sandfox",
+  "license": "MIT"
+}
